@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Letícia Aguiar</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on a personal project called [Simple Finance API](https://github.com/letsaguiar/simple-finance-api) that aims to be an Open Source application that helps developers to easily implement a financial backend environment for their personal and professional projects
-
 - 🌱 I’m currently learning more about **Web Development and devOps**, trying to beat the Web Developer Roadmap (which has been very challenging haha)
 
 - 📫 How to reach me **letsaguiar@yandex.com**
