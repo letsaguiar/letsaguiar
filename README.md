@@ -41,7 +41,7 @@ In the last years, I've worked with several programming languages and web framew
 - ❓ Ask me about anything related to web development best practices  
   
 
-- ⚡ Fun fact: People say that I'm a really good chess player   
+- ⚡ Fun fact: People say I'm a great chess player   
 
 
 </td><td valign="top" width="50%">
