@@ -1,3 +1,5 @@
+[![An image of @letsaguiar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/letsaguiar)](https://holopin.io/@letsaguiar)
+
 ## Hey 👋, I'm Letícia Aguiar!  
   
 
